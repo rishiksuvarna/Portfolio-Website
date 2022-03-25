@@ -150,6 +150,11 @@ hr {
     margin-right: 20px;
 }
 
+.link-hr {
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
 .project-link {
     text-decoration: none;
     color: #ef744b;
